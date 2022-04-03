@@ -1,0 +1,34 @@
+.adesua{
+  margin-left: 80px;
+  margin-top: 1px;
+  margin-bottom: 3px;
+  margin-right: -3px;
+  opacity: 1px;
+  background-image: url(../images/edinburgh.jpg);
+  width:1696px;
+  height:600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.join {
+    text-align: center;
+    color: black;
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 45%;
+    left:19%;
+    right: 18%;
+}
+.explore {
+    text-align: center;
+    position: absolute;
+    top: 65%;
+    right:15%;
+}
+.field{
+  color:rgb(25,25,112);
+  font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+  font-size: 30px;
+}
